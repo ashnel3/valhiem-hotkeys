@@ -1,1 +1,1 @@
-# Valhiem.Hotkeys
+# valhiem-hotkeys
